@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DakshCodes
 - 👀 I’m interested in Web Dev, Front-End Dev, Want to be Full Stack.
 - 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, TypeScript, Flutter.
-- 💞️ I’m looking to collaborate on https://Instagram.com/DakshCodes
-- 📫 How to reach me : https://DakshJoshi.com
+- 💞️ I’m looking to collaborate on https://instagram.com/DakshCodes
+- 📫 How to reach me : https://dakshJoshi.com
